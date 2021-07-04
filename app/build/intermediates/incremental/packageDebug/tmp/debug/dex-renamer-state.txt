@@ -1,0 +1,4 @@
+#Sun Jul 04 16:26:12 TRT 2021
+base.0=D\:\\GpsLocationmappApp-master\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

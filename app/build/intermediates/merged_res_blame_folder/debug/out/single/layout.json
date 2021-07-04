@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\GpsLocationmappApp-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "D:\\GpsLocationmappApp-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\GpsLocationmappApp-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_show_saved_location_list.xml",
+        "source": "D:\\GpsLocationmappApp-master\\app\\src\\main\\res\\layout\\activity_show_saved_location_list.xml"
+    },
+    {
+        "merged": "D:\\GpsLocationmappApp-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_maps.xml",
+        "source": "D:\\GpsLocationmappApp-master\\app\\src\\main\\res\\layout\\activity_maps.xml"
+    },
+    {
+        "merged": "D:\\GpsLocationmappApp-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_maps2.xml",
+        "source": "D:\\GpsLocationmappApp-master\\app\\src\\main\\res\\layout\\activity_maps2.xml"
+    }
+]
